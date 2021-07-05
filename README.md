@@ -30,7 +30,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faruqe25)  
 
-![Profile views](https://gpvc.arturio.dev/faruqe25)  
+
 
 
 
