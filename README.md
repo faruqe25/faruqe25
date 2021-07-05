@@ -29,7 +29,7 @@
 <span style="display:inline">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faruqe25&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faruqe25)  
-  <span>
+  </span>
 
 
 
