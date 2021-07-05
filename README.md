@@ -22,14 +22,8 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faruqe25)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faruqe25)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faruqe25)  
-<span style="display:inline">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=faruqe25&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faruqe25)  
-  </span>
+
 
 
 
